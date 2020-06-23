@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Node.js" src="https://github.com/gianferreira/gostack11-frontend/blob/master/react.svg" width="130px"/>
+  <img alt="ReactJS" src="https://github.com/gianferreira/conceitos-reactjs/blob/master/readme-logo.svg" width="130px"/>
 </h3>
 
 <h1 align="center">
@@ -9,29 +9,29 @@
 <p align="center">Primeiros conceitos do ReactJS aplicados na construção de uma aplicação web.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/gostack11-frontend">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/gostack11-frontend">
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/gostack11-frontend">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/conceitos-reactjs">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/conceitos-reactjs">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/conceitos-reactjs">
 </p>
 
 ## Sobre:
 
-Aplicação web simples em ReactJS que realiza o cadastro e manutenção de projetos. A aplicação consome uma <a href="https://github.com/gianferreira/gostack11-backend"><b> API </b></a> construída em Node.js. 
+Aplicação web desenvolvida em ReactJS que realiza o cadastro e manutenção de projetos. A aplicação consome uma <a href="https://github.com/gianferreira/conceitos-nodejs"><b> API </b></a> construída em Node.js. 
 
 ## Tecnologias utilizadas:
 
-- ReactJS
-- Webpack
-- Babel
-- Axios
-- Yarn
+- reactjs
+- webpack
+- babel
+- axios
+- yarn
 
 ## Instalação e execução:
 
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/gianferreira/gostack11-frontend
+$ git clone https://github.com/gianferreira/conceitos-reactjs
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
@@ -61,6 +61,6 @@ yarn dev
 <blockquote align="center">
   Este projeto foi desenvolvimento durante o 
     <a href="https://rocketseat.com.br/gostack">
-      Gostack 11.0 da RocketSeat
+      Bootcamp da RocketSeat
     </a>
 </blockquote>

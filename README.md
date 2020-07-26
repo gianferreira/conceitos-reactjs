@@ -6,7 +6,7 @@
   Front-end com ReactJS
 </h1>
 
-<p align="center">Primeiros conceitos do ReactJS aplicados na construção de uma aplicação web.</p>
+<p align="center">Primeiros conceitos do ReactJS aplicados na construção de uma aplicação web</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/conceitos-reactjs">
@@ -45,7 +45,6 @@ Para iniciar a aplicação:
 ```bash
 yarn dev
 ```
-
 ---
 
 <p align="center"> Gian Ferreira </p>
@@ -59,8 +58,8 @@ yarn dev
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o 
+  Este projeto foi desenvolvido durante o 
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
